@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Annette
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning R, Python and SQL
+- 🌱 I’m currently learning R, Python, Tableau and SQL
 - 💞️ I’m looking to collaborate on projects, research work and internships in Data Science, Economis, Computer Science or Statistics
 - 📫 How to reach me: email: darpo24a@mtholyoke.edu  
 - 😄 Pronouns: she/her
